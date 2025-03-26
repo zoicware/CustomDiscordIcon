@@ -9,6 +9,8 @@ iwr 'https://raw.githubusercontent.com/zoicware/CustomDiscordIcon/refs/heads/mai
 
 ![{504C9366-2FC3-407F-AA1B-DC38A4A6352B}](https://github.com/user-attachments/assets/35308aa0-5bb4-44e9-b49d-2eb376c3c8d2)
 
+**NOTE:** If you have discord pinned to taskbar or startmenu you will need to repin it to update the icon
+
 ## Preview
 
 ![{8CB49886-311F-440C-8EB4-8F1BFA7EB8F3}](https://github.com/user-attachments/assets/ffac31b0-0daf-4e95-8d86-8ce0c7b2fbb4)
